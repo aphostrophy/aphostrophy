@@ -1,3 +1,8 @@
+[youtube]: https://www.youtube.com/channel/UCQb7qBNuyF9tyofwAQn8psg
+[instagram]: https://www.instagram.com/jessonyoo/
+[linkedin]: https://www.linkedin.com/in/jesson-yo/
+[mailto]: mailto:aphostrophy@gmail.com
+
 ## Hi there my name is Jesson Yo but you may know me as Aphostrophy 👋
 <br/>
 
@@ -32,12 +37,31 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge">
 </details>
 
 <details>
   <summary>💻 Technologies</summary>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Node%20Js-339933?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Express.JS-000000?logo=express&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-GitFlow-F05032?logo=git&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-LibGDX-000000?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Kali Linux-557C94?logo=kali%20linux&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Qt-41CD52?logo=Qt&logoColor=white&style=for-the-badge">
+</details>
+
+<details>
+  <summary>💻 Non CS Technologies</summary>
 </details>
 
 <details>
@@ -47,9 +71,3 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessonyo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-[youtube]: https://www.youtube.com/channel/UCQb7qBNuyF9tyofwAQn8psg
-[instagram]: https://www.instagram.com/jessonyoo/
-[linkedin]: https://www.linkedin.com/in/jesson-yo/
-[mailto]: mailto:aphostrophy@gmail.com
-
