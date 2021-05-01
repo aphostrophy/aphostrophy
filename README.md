@@ -1,4 +1,4 @@
-### Hi there my name is Jesson Yo but you may know me as Aphostrophy 👋
+## Hi there my name is Jesson Yo but you may know me as Aphostrophy 👋
 <br/>
 
 [![Years Badge](https://badges.pufler.dev/years/jessonyo)](https://badges.pufler.dev)
@@ -10,24 +10,34 @@
 - 🌱 I’m currently learning Three.Js, Data Science, and Video Editing
 - 👯 I’m looking to collaborate on computer graphics and or AI mini projects
 - 💬 Ask me about anything and I'll try to help!
-- ⚡ Fun fact: I'm confused about literally everything everytime
+- ⚡ Fun fact: I'm always confused about everything everytime
 
-### Connect with me:
+## 📞 Connect with me:
 
-[<img align="left" alt="Jesson Yo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Jesson Yo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jesson Yo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br></br>
-
+[<img alt="Jesson Yo | YouTube" src="https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white" />][youtube]
+[<img alt="Jesson Yo | LinkedIn" src="https://img.shields.io/badge/-jessonyo-0A66C2?logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Jesson Yo | Instagram" src="https://img.shields.io/badge/-jessonyoo-E4405F?logo=Instagram&logoColor=white" />][instagram]
+[<img alt="Jesson Yo | Gmail" src="https://img.shields.io/badge/-aphostrophy@gmail.com-EA4335?logo=gmail&logoColor=white" />][mailto]
 
 
 <details>
   <summary>👩‍💻 Languages</summary>
+
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Csharp-00599C?logo=c%20sharp&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=for-the-badge">
 </details>
 
 <details>
   <summary>💻 Technologies</summary>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </details>
 
 <details>
@@ -41,4 +51,5 @@
 [youtube]: https://www.youtube.com/channel/UCQb7qBNuyF9tyofwAQn8psg
 [instagram]: https://www.instagram.com/jessonyoo/
 [linkedin]: https://www.linkedin.com/in/jesson-yo/
+[mailto]: mailto:aphostrophy@gmail.com
 
