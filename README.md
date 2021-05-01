@@ -67,6 +67,9 @@
 
 <details>
   <summary>💻 Non CS Technologies</summary>
+
+  <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Excel-217346?logo=Microsoft%20Excel&logoColor=white&style=for-the-badge">
 </details>
 
 <details>
