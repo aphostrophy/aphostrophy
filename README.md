@@ -44,7 +44,9 @@
   <summary>💻 Technologies</summary>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra%20UI&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Node%20Js-339933?logo=node.js&logoColor=white&style=for-the-badge">
@@ -58,6 +60,9 @@
   <img src="https://img.shields.io/badge/-Kali Linux-557C94?logo=kali%20linux&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Qt-41CD52?logo=Qt&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Next.Js-000000?logo=Next.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Gatsby.Js-000000?logo=Gatsby&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=Google%20Cloud&logoColor=white&style=for-the-badge">
 </details>
 
 <details>
