@@ -11,8 +11,8 @@
 [![Updated Badge](https://badges.pufler.dev/updated/aphostrophy/aphostrophy)](https://badges.pufler.dev)
 
 ## I'm a Student, Developer, and a Power Learner!!
-- 🔭 I’m currently working on university projects and exams
-- 🌱 I’m currently learning Three.Js, Data Science, and Video Editing
+- 🔭 I’m currently working on my thesis
+- 🌱 I’m currently learning the Linux Kernel Internals and Three.Js
 - 👯 I’m looking to collaborate on computer graphics and or AI mini projects
 - 💬 Ask me about anything and I'll try to help!
 - ⚡ Fun fact: I'm always confused about everything everytime
