@@ -12,10 +12,10 @@
 
 ## I'm a Student, Developer, and a Power Learner!!
 - 🔭 I’m currently working on my thesis
-- 🌱 I’m currently learning the Linux Kernel Internals and Three.Js
-- 👯 I’m looking to collaborate on computer graphics and or AI mini projects
+- 🌱 I’m currently learning the Linux Kernel Internals and BPF
+- 👯 I’m looking to collaborate on any projects really
 - 💬 Ask me about anything and I'll try to help!
-- ⚡ Fun fact: I'm always confused about everything everytime
+- ⚡ Fun fact: Apes together strong
 
 ## 📞 Connect with me:
 
