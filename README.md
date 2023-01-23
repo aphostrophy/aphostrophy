@@ -6,9 +6,9 @@
 ## Hi there my name is Jesson Yo but you may know me as Aphostrophy 👋
 <br/>
 
-[![Years Badge](https://badges.pufler.dev/years/aphostrophy)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/aphostrophy)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/aphostrophy/aphostrophy)](https://badges.pufler.dev)
+[![Years Badge](https://badges.strrl.dev/years/aphostrophy)](https://badges.strrl.dev)
+[![Repos Badge](https://badges.strrl.dev/repos/aphostrophy)](https://badges.strrl.dev)
+[![Updated Badge](https://badges.strrl.dev/updated/aphostrophy/aphostrophy)](https://badges.strrl.dev)
 
 ## I'm a Student, Developer, and a Power Learner!!
 - 🔭 I’m currently working on my thesis
