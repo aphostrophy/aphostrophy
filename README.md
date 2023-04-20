@@ -27,16 +27,16 @@
 
 <details>
   <summary>👩‍💻 Languages</summary>
-
+  
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Csharp-00599C?logo=c%20sharp&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge">
 </details>
 
